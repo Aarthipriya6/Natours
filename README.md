@@ -1,7 +1,7 @@
 # Natours-Project
 
 ***
-## Text tag
+## TECH STACK
 ***
 + HTML
 + CSS
